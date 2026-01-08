@@ -15,7 +15,7 @@ This project builds on the cleaned global layoffs dataset to explore trends, pat
 - Identification of high-impact industries and organisations
 
 ## 🧠 Techniques Used
-- **Common Table Expressions (CTEs)**
+- Common Table Expressions (CTEs)
 - Conditional aggregation
 - Time-based filtering and grouping
 - Ranking and comparison queries
