@@ -26,6 +26,6 @@ This project builds on the cleaned global layoffs dataset to explore trends, pat
 - Translating raw data into insights  
 - Analytical thinking and problem-solving
 
-- ## 📂 Project Files
+- ## 📂 Project File
 - [Exploratory Analysis SQL Script](sql/exploratory_analysis.sql)
 
